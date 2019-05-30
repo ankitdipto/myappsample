@@ -1,0 +1,394 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"index",
+				"index_odd"
+			],
+			[
+				"in",
+				"index_odd_end"
+			],
+			[
+				"terms_",
+				"terms_even"
+			],
+			[
+				"terms",
+				"terms_odd"
+			],
+			[
+				"tems",
+				"terms_odd"
+			],
+			[
+				"n",
+				"N"
+			],
+			[
+				"ter",
+				"terms_even"
+			],
+			[
+				"index_",
+				"index_odd"
+			],
+			[
+				"inde",
+				"index_odd"
+			],
+			[
+				"l",
+				"len"
+			],
+			[
+				"loop",
+				"loop2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/geometry.cpp",
+			"settings":
+			{
+				"buffer_size": 1085,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/prob_for_nazar.cpp",
+			"settings":
+			{
+				"buffer_size": 3055,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/input.txt",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/speed_compile.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/input.txt",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/test.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/sop.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/prob_for_nazar.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/cp.cpp",
+		"/C/Users/User/Desktop/pyprog.py",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/speed_compile.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/bad_xor.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/binary_movements.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/serval_parenthesis.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/geometry.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/p1.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/output3.txt",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/p3.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/p2.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/output2.txt",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/output.txt",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/ada_rook.sublime-workspace",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/output.exe",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/ada_rook.sublime-project",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/ada_rook.cpp",
+		"/C/Users/User/Documents/beautifularray2.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/cpp_build.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/CPP_RUN.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/c++_build.sublime-build"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/geometry.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/prob_for_nazar.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/speed_compile.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
